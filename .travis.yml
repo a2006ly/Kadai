@@ -1,1 +1,5 @@
+laguage: bash
+scipt:
+  - echo "hello"
+  - echo "Start Travis-CI test in .travis.yml"
 - ./same-test.sh
