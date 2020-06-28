@@ -1,5 +1,5 @@
 laguage: bash
-scipt:
+script:
   - echo "hello"
   - echo "Start Travis-CI test in .travis.yml"
-- ./same-test.sh
+  - ./same-test.sh
