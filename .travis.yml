@@ -1,5 +1,5 @@
 laguage: bash
 script:
-  - echo "hello"
+  - echo "課題４テス"
   - echo "Start Travis-CI test in .travis.yml"
-  - ./same-test.sh
+  - ./20745106_kadai4_test.sh
